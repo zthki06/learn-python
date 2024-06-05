@@ -10,9 +10,10 @@ The Computer Science Path is structured into multiple modules, each focusing on 
 6. Software Engineering Principles
 
 ## Projects
-- Building a Calculator: Apply your Python skills to create a basic calculator.
-- Data Visualization: Use data structures to visualize and analyze data.
-- Sorting Algorithm Visualizer: Implement and visualize different sorting algorithms.
+- Python Terminal Game
+- Creating Recommendation Software
+- Creating a Database
+- CPU Simulator
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new content, please open an issue or submit a pull request.
